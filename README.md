@@ -44,7 +44,7 @@ This is just the foundation. The full system includes:
 - Citation-based answers and dashboards for QA
 - Scalable deployment for enterprise
 
-## Proposal Notes
+## Note
 
 This demo is a **lightweight example** to demonstrate capability and rapid prototyping.  
 We can scale this into a **production-ready RAG system** within 4–6 weeks, including:
@@ -55,8 +55,3 @@ We can scale this into a **production-ready RAG system** within 4–6 weeks, inc
 - Admin dashboard, quality metrics, and LLM cost controls
 
 ---
-
-**Estimate:** $1250 for full delivery  
-**Timeline:** 6 weeks total (MVP in 3–4 weeks)
-
-Contact me to schedule a technical discussion and scope finalization.
